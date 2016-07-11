@@ -1,0 +1,21 @@
+{
+  "name": "SimpleAirlines",
+  "airplanes": [
+    {
+      "type": "passenger",
+      "manufacturer": "Airbus",
+      "model": "A380",
+      "range": 15400,
+      "fuel_capacity": 248,
+      "capacity": 843
+    },
+    {
+      "type": "cargo",
+      "manufacturer": "Antonov",
+      "model": "An-225",
+      "range": 4000,
+      "fuel_capacity": 300,
+      "payload": 250
+    }
+  ]
+}

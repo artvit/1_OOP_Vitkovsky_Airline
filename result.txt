@@ -1,0 +1,12 @@
+Total capacity: 843
+Total payload: 250.0
+Airline before sorting:
+Airline SimpleAirlines
+Airplane: id: 0 Airbus A380 Range: 15400.0km Fuel Capacity: 248.0t Capacity: 843ppl
+Airplane: id: 1 Antonov An-225 Range: 4000.0km Fuel Capacity: 300.0t Payload: 250.0t
+Sorted airline:
+Airline SimpleAirlines
+Airplane: id: 1 Antonov An-225 Range: 4000.0km Fuel Capacity: 300.0t Payload: 250.0t
+Airplane: id: 0 Airbus A380 Range: 15400.0km Fuel Capacity: 248.0t Capacity: 843ppl
+Result for searching airplanes with fuel consumption between 0 and 1 t/km
+[Airplane: id: 1 Antonov An-225 Range: 4000.0km Fuel Capacity: 300.0t Payload: 250.0t, Airplane: id: 0 Airbus A380 Range: 15400.0km Fuel Capacity: 248.0t Capacity: 843ppl]

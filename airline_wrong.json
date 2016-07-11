@@ -1,0 +1,15 @@
+{
+  "airplanes": [
+    {
+      "type": "passenger",
+      "range": 15400,
+      "fuel_capacity": 248,
+      "capacity": 843
+    },
+    {
+      "type": "cargo",
+      "manufacturer": "Antonov",
+      "model": "An-225"
+    }
+  ]
+}
